@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FeatureC">
+   </FileRef>
+   <FileRef
+      location = "group:FeatureB">
+   </FileRef>
+   <FileRef
+      location = "group:FeatureA">
+   </FileRef>
+   <FileRef
+      location = "group:Features">
+   </FileRef>
+   <FileRef
+      location = "group:Modular/Modular.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BundleApp/BundleApp.xcodeproj">
+   </FileRef>
+</Workspace>
