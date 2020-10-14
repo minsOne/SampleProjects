@@ -10,7 +10,7 @@ import RxSwift
 import RxCocoa
 
 public func helloworld() {
-    _ = Observable.just("Hello World")
+    _ = Observable.just("Hello World on DynamicFrameworkKit")
         .asDriver(onErrorJustReturn: "Error")
         .drive(onNext: {
             print($0)
